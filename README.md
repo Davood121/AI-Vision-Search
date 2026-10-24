@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔮 AI Vision Search
-### *Where Computer Vision Meets Deep Knowledge*
+### *Image understanding and context-focused visual search*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-Web%20App-green?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -68,7 +68,7 @@ We are constantly evolving. Here is what we have built and what's coming next:
 1.  **Clone the repo**
     ```sh
     git clone https://github.com/Davood121/AI-Vision-Search.git
-    cd -AI-Vision-Search
+    cd AI-Vision-Search
     ```
 
 2.  **Install dependencies**
@@ -104,4 +104,4 @@ Contributions are what make the open source community such an amazing place to l
 **Davood** - [GitHub Profile](https://github.com/Davood121)
 
 Project Link: [https://github.com/Davood121/AI-Vision-Search](https://github.com/Davood121/AI-Vision-Search)
-# -AI-Vision-Search
+# AI-Vision-Search
