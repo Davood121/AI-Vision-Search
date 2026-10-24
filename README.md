@@ -8,7 +8,7 @@
 [![AI Powered](https://img.shields.io/badge/AI-Transformers-purple?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
-[**View Demo**](#) · [**Report Bug**](https://github.com/Davood121/-AI-Vision-Search/issues) · [**Request Feature**](https://github.com/Davood121/-AI-Vision-Search/issues)
+**Demo:** Not published yet. · [**Report Bug**](https://github.com/Davood121/AI-Vision-Search/issues) · [**Request Feature**](https://github.com/Davood121/AI-Vision-Search/issues)
 
 </div>
 
@@ -67,7 +67,7 @@ We are constantly evolving. Here is what we have built and what's coming next:
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/Davood121/-AI-Vision-Search.git
+    git clone https://github.com/Davood121/AI-Vision-Search.git
     cd -AI-Vision-Search
     ```
 
@@ -103,5 +103,5 @@ Contributions are what make the open source community such an amazing place to l
 
 **Davood** - [GitHub Profile](https://github.com/Davood121)
 
-Project Link: [https://github.com/Davood121/-AI-Vision-Search](https://github.com/Davood121/-AI-Vision-Search)
+Project Link: [https://github.com/Davood121/AI-Vision-Search](https://github.com/Davood121/AI-Vision-Search)
 # -AI-Vision-Search
